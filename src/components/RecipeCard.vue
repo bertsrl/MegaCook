@@ -29,7 +29,7 @@
       <h2 class="card-title text-start">
         {{ props.recipe.name }}
       </h2>
-      <p class="text-start">If a dog chews shoes whose shoes does he choose?</p>
+      <p class="text-start">Delicious food</p>
       <div class="card-actions justify-start">
         <div
           v-for="ingredient of props.recipe.ingredients"
