@@ -51,10 +51,8 @@
           {{ ingrd.name }}
         </button>
       </div>
-      <div class="h-[75vh]">
-        <div
-          class="container flex flex-wrap gap-3 overflow-y-auto h-[100%] pb-[5vh]"
-        >
+      <div class="h-[90vh] pb-[5vh]">
+        <div class="flex flex-wrap gap-3 overflow-y-auto h-[100%] pb-[5vh]">
           <span v-if="noRecipeFlag"
             >Sorry, no recipes added with this ingredient</span
           >
