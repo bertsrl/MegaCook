@@ -19,7 +19,11 @@
       </span>
     </button>
     <figure>
-      <img :src="props.recipe.imagePath" :alt="props.recipe.name" />
+      <img
+        class="max-h-[16vh]"
+        :src="props.recipe.imagePath"
+        :alt="props.recipe.name"
+      />
     </figure>
     <div class="card-body">
       <h2 class="card-title text-start">
