@@ -1,5 +1,4 @@
-Cooking Book App
-The Cooking Book App is a web application that allows users to search for recipes based on their favorite ingredients. Whether you're looking for a quick meal idea or trying to use up ingredients in your pantry, this app provides a convenient way to discover new recipes tailored to your preferences.
+MegaCook is a web application that allows users to search for recipes based on their favorite ingredients. Whether you're looking for a quick meal idea or trying to use up ingredients in your pantry, this app provides a convenient way to discover new recipes tailored to your preferences.
 
 Features
 Ingredient-Based Search: Search for recipes based on ingredients you have on hand.
