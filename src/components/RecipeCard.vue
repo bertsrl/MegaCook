@@ -1,5 +1,7 @@
 <template>
-  <div class="card w-[35%] lg:w-[24%] bg-base-100 shadow-xl">
+  <div
+    class="card max-w-[35%] lg:max-w-[20rem] max-h-[50vh] bg-base-100 shadow-xl"
+  >
     <button
       class="btn btn-circle absolute top-0 right-0 m-5 hover:bg-red-100"
       :class="props.recipe.isFavorite ? 'bg-red-100' : ''"
