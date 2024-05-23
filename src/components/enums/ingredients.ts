@@ -54,4 +54,8 @@ export const ingredients = ref<Ingredient[]>([
       name: "Fish",
       emoji: "🐟",
     },
+    {
+      name: "Lemon",
+      emoji: "🍋"
+    },
   ]);

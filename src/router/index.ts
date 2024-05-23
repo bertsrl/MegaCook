@@ -11,12 +11,12 @@ const routes: Array<RouteRecordRaw> = [
     component: SearchPage
   },
   {
-    path: '/',
+    path: '/favorites',
     name: 'favorites',
     component: FavoritesPage
   },
   {
-    path: '/',
+    path: '/statistics',
     name: 'statistics',
     component: StatisticsPage
   },
